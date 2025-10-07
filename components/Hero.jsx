@@ -79,7 +79,7 @@ export default function Hero() {
             </div>
 
             {/* Image at bottom - no tint overlay */}
-            <div className="absolute bottom-0 left-0 right-0 h-[100%] rounded-b-3xl overflow-hidden">
+            <div className="absolute bottom-0 left-0 right-0 h-[80%] rounded-b-3xl overflow-hidden">
               <div className="relative w-full h-full">
                 <Image
                   src="/ifti.jpg"
